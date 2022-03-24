@@ -1,0 +1,10 @@
+name: DP-HotTime
+version: 1.0.0.0
+main: com.darksoldier1404.dht.HotTime
+authors: [ DEAD_POOLIO_ ]
+api-version: 1.18
+depend:
+  - DPP-Core
+commands:
+  핫타임:
+    aliases: [dht]
