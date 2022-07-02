@@ -1,8 +1,8 @@
 name: DP-HotTime
-version: 1.0.0.0
+version: 1.0.0.1
 main: com.darksoldier1404.dht.HotTime
 authors: [ DEAD_POOLIO_ ]
-api-version: 1.18
+api-version: 1.19
 depend:
   - DPP-Core
 commands:

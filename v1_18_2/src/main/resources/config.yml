@@ -1,0 +1,32 @@
+Settings:
+  prefix: "&f[ &6핫타임 &f] "
+
+  RewardSotrageLine: 3
+
+  enableCountDown: true
+  CountDown:
+    - "10초!"
+    - "<delay:1>"
+    - "9초!"
+    - "<delay:1>"
+    - "8초!"
+    - "<delay:1>"
+    - "7초!"
+    - "<delay:1>"
+    - "6초!"
+    - "<delay:1>"
+    - "5초!"
+    - "<delay:1>"
+    - "4초!"
+    - "<delay:1>"
+    - "3초!"
+    - "<delay:1>"
+    - "2초!"
+    - "<delay:1>"
+    - "1초!"
+    - "<delay:1>"
+
+  HotTimes:
+    Test:
+      Type: "F"
+      Time: "10:10"
